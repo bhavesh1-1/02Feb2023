@@ -1,0 +1,3 @@
+experiment 1: creation of a 2d,3d and a 4d tensor from a 3d tensor
+experiment 2: Q1: implement data elements constants , variables , placeholders using tensorflow(put 1 code for each)
+		  Q2: implement the following mathematical operations using tensorflow i) tf.add(a,b) | ii) tf.subtract(a,b) | tf.multiply(a,b) | tf.divide(a,b) | tf.power(a,b) | tf.sqrt(a)    
